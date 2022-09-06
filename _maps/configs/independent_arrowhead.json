@@ -1,5 +1,5 @@
 {
-	"$schema": "https://raw.githubusercontent.com/shiptest-ss13/Shiptest/master/_maps/ship_config_schema.json",
+	"$schema": "https://raw.githubusercontent.com/Sector-Echo-13-Team/Echotest/master/_maps/ship_config_schema.json",
 	"map_name": "Arrowhead-class Long Range Scoutship",
 	"prefix": "ISV",
 	"namelists": ["GENERAL", "SPACE", "MYTHOLOGICAL"],
