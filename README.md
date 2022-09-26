@@ -1,15 +1,14 @@
-# ECHO 13 SHIPTEST FORK
+# ECHO 13'S SHIPTEST FORK 🎉
 
-[![Checks](https://github.com/shiptest-ss13/Shiptest/workflows/Checks/badge.svg)](https://github.com/shiptest-ss13/Shiptest/actions/workflows/ci_suite.yml) [![Percentage of issues still open](http://isitmaintained.com/badge/open/shiptest-ss13/Shiptest.svg)](https://isitmaintained.com/project/shiptest-ss13/Shiptest "Percentage of issues still open") [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/shiptest-ss13/Shiptest.svg)](https://isitmaintained.com/project/shiptest-ss13/Shiptest "Average time to resolve an issue") [![GitHub issues](https://img.shields.io/github/issues/shiptest-ss13/Shiptest)](https://github.com/shiptest-ss13/Shiptest/issues) ![GitHub top language](https://img.shields.io/github/languages/top/shiptest-ss13/Shiptest)
+[![Checks](https://github.com/Sector-Echo-13-Team/Echotest/workflows/Checks/badge.svg)](https://github.com/Sector-Echo-13-Team/Echotest/actions/workflows/ci_suite.yml) << === If it's red then lmk -Vexy
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-resentment.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/contains-technical-debt.svg)](https://user-images.githubusercontent.com/8171642/50290880-ffef5500-043a-11e9-8270-a2e5b697c86c.png) [![forinfinityandbyond](https://user-images.githubusercontent.com/5211576/29499758-4efff304-85e6-11e7-8267-62919c3688a9.gif)](https://www.reddit.com/r/SS13/comments/5oplxp/what_is_the_main_problem_with_byond_as_an_engine/dclbu1a)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/contains-technical-debt.svg)](https://user-images.githubusercontent.com/8171642/50290880-ffef5500-043a-11e9-8270-a2e5b697c86c.png) [![forinfinityandbyond](https://user-images.githubusercontent.com/5211576/29499758-4efff304-85e6-11e7-8267-62919c3688a9.gif)](https://www.reddit.com/r/SS13/comments/5oplxp/what_is_the_main_problem_with_byond_as_an_engine/dclbu1a)
 
--   **Website:** <https://shiptest.net>
--   **Patreon:** <https://www.patreon.com/shiptest_ss13>
+-   **Echo13 discord:** <https://discord.gg/wkGzjmGyMY>
+-   **Shiptest(our upstream) repo:** <https://github.com/shiptest-ss13/Shiptest>
+-   **Upstream's website:** <https://shiptest.net/>
 -   **Wiki:** <https://shiptest.net/wiki>
 -   **Code Docs:** <https://codedocs.shiptest.net>
--   **Discord:** <https://shiptest.net/discord>
--   **Coderbus Discord:** <https://discord.gg/Vh8TJp9>
 
 This is the codebase for the Ship-based Shiptest flavoured fork of SpaceStation 13.
 
@@ -23,16 +22,13 @@ Shiptest is a thrill-packed round-based exploration and roleplaying game set aga
 
 [Maps and Away Missions](.github/MAPS_AND_AWAY_MISSIONS.md)
 
-## Requirements for contributors
+## Contributing to the project
 
-[Guidelines for Contributors](.github/CONTRIBUTING.md)
-
-[Documenting your code](.github/AUTODOC_GUIDE.md)
-
-[Policy configuration system](.github/POLICYCONFIG.md)
+If you are planning to contribute to our project, please consider contributing to [our upstream](https://github.com/shiptest-ss13/Shiptest) first. All the changes there are also applied to [this fork](https://github.com/Sector-Echo-13-Team/Echotest). If you however are absolutely certain that your contribution would not fit or get approved there, you can contact Vexylius#1984 on [Discord](https://discord.com/) via direct message, or in the #dev-gen channel.
 
 ## CODEBASE CREDITS
 
+-	Shiptest, for the codebase
 -   Whitesands, for the original codebase
 -   /tg/, for the original codebase of the original codebase
 -   BeeStation, for the many QoL changes
