@@ -62,9 +62,12 @@
 /datum/outfit/job/paramedic/traumateam
 	name = "Paramedic (Trauma Team Technician)"
 
-	uniform = /obj/item/clothing/under/rank/security/brig_phys
+	uniform = /obj/item/clothing/under/syndicate/medic/trauma
+	head = /obj/item/clothing/head/soft/paramedic
+	belt = /obj/item/storage/belt/medical/webbing
 	shoes = /obj/item/clothing/shoes/combat
 	backpack = /obj/item/storage/backpack/ert/medical
+	gloves = /obj/item/clothing/gloves/color/latex/nitrile/evil
 /datum/outfit/job/paramedic/syndicate/gorlex
 	name = "Paramedic (Gorlex)"
 
