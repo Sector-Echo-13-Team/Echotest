@@ -143,6 +143,13 @@
 	soft_type = "cybersun"
 	dog_fashion = null
 
+/obj/item/clothing/head/soft/cybersun/trauma
+	name = "Trauma Team medic cap"
+	desc = "A turquoise baseball hat emblazoned with a reflective cross. Commonly seen worn by Trauma Team Technicians. 3 minute response time not guaranteed."
+	icon_state = "cybersunsoft"
+	soft_type = "cybersun"
+	dog_fashion = null
+
 /obj/item/clothing/head/soft/inteq
 	name = "inteq utility cover"
 	desc = "A drab brown utility cover with a golden insignia on it. Worn by IRMG operators."

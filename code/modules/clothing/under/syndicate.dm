@@ -139,6 +139,13 @@
 	permeability_coefficient = 0.5
 	armor = list("melee" = 0, "bullet" = 0, "laser" = 0,"energy" = 0, "bomb" = 0, "bio" = 10, "rad" = 0, "fire" = 0, "acid" = 0)
 
+/obj/item/clothing/under/syndicate/medic/trauma
+	name = "Trauma Team medical jumpsuit"
+	desc = "Sterile coveralls worn by Trauma Team Technicians for protection against biological hazards. Heal. Diagnose. Extract."
+	icon_state = "cybersun_med"
+	permeability_coefficient = 0.5
+	armor = list("melee" = 0, "bullet" = 0, "laser" = 0,"energy" = 0, "bomb" = 0, "bio" = 10, "rad" = 0, "fire" = 0, "acid" = 0)
+
 /obj/item/clothing/under/syndicate/medic/skirt
 	name = "Cybersun medical jumpskirt"
 	desc = "A sterile jumpskirt worn by Cybersun Industries field medics for protection against biological hazards."
