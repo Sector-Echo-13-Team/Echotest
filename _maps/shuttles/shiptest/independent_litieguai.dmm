@@ -21,6 +21,13 @@
 /obj/machinery/suit_storage_unit/inherit,
 /turf/open/floor/plasteel,
 /area/ship/storage)
+"bc" = (
+/obj/effect/turf_decal/trimline/opaque/red/filled/line{
+	dir = 1
+	},
+/obj/machinery/medical_kiosk,
+/turf/open/floor/plasteel,
+/area/ship/hallway/aft)
 "bl" = (
 /obj/machinery/smartfridge/organ,
 /turf/closed/wall/mineral/titanium/nodiagonal,
@@ -192,15 +199,9 @@
 /obj/item/clothing/shoes/combat,
 /obj/item/clothing/shoes/combat,
 /obj/item/clothing/shoes/combat,
-/obj/item/clothing/under/rank/security/brig_phys,
-/obj/item/clothing/under/rank/security/brig_phys,
-/obj/item/clothing/under/rank/security/brig_phys,
 /obj/item/clothing/suit/toggle/labcoat/paramedic,
 /obj/item/clothing/suit/toggle/labcoat/paramedic,
 /obj/item/clothing/suit/toggle/labcoat/paramedic,
-/obj/item/clothing/head/soft/paramedic,
-/obj/item/clothing/head/soft/paramedic,
-/obj/item/clothing/head/soft/paramedic,
 /obj/item/storage/backpack/ert/medical,
 /obj/item/storage/backpack/ert/medical,
 /obj/item/storage/backpack/ert/medical,
@@ -214,6 +215,15 @@
 	pixel_x = 28;
 	req_access_txt = "5"
 	},
+/obj/item/clothing/head/soft/cybersun/trauma,
+/obj/item/clothing/head/soft/cybersun/trauma,
+/obj/item/clothing/head/soft/cybersun/trauma,
+/obj/item/clothing/under/syndicate/medic/trauma,
+/obj/item/clothing/under/syndicate/medic/trauma,
+/obj/item/clothing/under/syndicate/medic/trauma,
+/obj/item/clothing/under/syndicate/medic/trauma,
+/obj/item/clothing/under/syndicate/medic/trauma,
+/obj/item/clothing/under/syndicate/medic/trauma,
 /turf/open/floor/plasteel/dark,
 /area/ship/crew)
 "eS" = (
@@ -278,6 +288,12 @@
 /turf/open/floor/plasteel,
 /area/ship/hallway/aft)
 "gL" = (
+/turf/closed/wall/mineral/titanium/nodiagonal,
+/area/ship/hallway/aft)
+"gN" = (
+/obj/machinery/vending/wallmed{
+	pixel_w = 0.5
+	},
 /turf/closed/wall/mineral/titanium/nodiagonal,
 /area/ship/hallway/aft)
 "gO" = (
@@ -387,11 +403,6 @@
 /obj/item/healthanalyzer/advanced,
 /obj/item/healthanalyzer/advanced,
 /obj/item/healthanalyzer/advanced,
-/obj/item/storage/belt/medical/surgery,
-/obj/item/storage/belt/medical/paramedic,
-/obj/item/clothing/gloves/color/latex/nitrile,
-/obj/item/clothing/gloves/color/latex/nitrile,
-/obj/item/clothing/gloves/color/latex/nitrile,
 /obj/machinery/atmospherics/pipe/simple/supply/hidden/layer2,
 /obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer4{
 	dir = 6
@@ -409,6 +420,12 @@
 	pixel_x = -28;
 	req_access_txt = "5"
 	},
+/obj/item/clothing/gloves/color/latex/nitrile/evil,
+/obj/item/clothing/gloves/color/latex/nitrile/evil,
+/obj/item/clothing/gloves/color/latex/nitrile/evil,
+/obj/item/storage/belt/medical/webbing,
+/obj/item/storage/belt/medical/webbing,
+/obj/item/storage/belt/medical/webbing,
 /turf/open/floor/plasteel/dark,
 /area/ship/crew)
 "kH" = (
@@ -543,18 +560,7 @@
 /obj/structure/window/reinforced{
 	dir = 1
 	},
-/obj/structure/closet/secure_closet{
-	icon_state = "med";
-	name = "medicine locker"
-	},
-/obj/item/storage/firstaid/brute,
-/obj/item/storage/firstaid/fire,
-/obj/item/storage/firstaid/o2,
-/obj/item/storage/firstaid/toxin,
-/obj/item/storage/box/medipens,
-/obj/item/storage/box/syringes,
-/obj/item/storage/firstaid/regular,
-/obj/item/storage/firstaid/regular,
+/obj/machinery/vending/medical,
 /turf/open/floor/plasteel/white,
 /area/ship/medical)
 "nl" = (
@@ -853,6 +859,16 @@
 /obj/item/clothing/shoes/sneakers/blue,
 /obj/item/clothing/shoes/sneakers/blue,
 /obj/item/clothing/shoes/sneakers/blue,
+/obj/item/storage/belt/medical/webbing,
+/obj/item/clothing/head/soft/cybersun/trauma,
+/obj/item/clothing/head/soft/cybersun/trauma,
+/obj/item/clothing/head/soft/cybersun/trauma,
+/obj/item/clothing/head/soft/cybersun/trauma,
+/obj/item/clothing/head/soft/cybersun/trauma,
+/obj/item/clothing/head/soft/cybersun/trauma,
+/obj/item/clothing/under/rank/medical/chemist/junior_chemist,
+/obj/item/clothing/under/rank/medical/chemist/junior_chemist,
+/obj/item/clothing/under/rank/medical/chemist/junior_chemist,
 /turf/open/floor/plasteel/grimy,
 /area/ship/crew)
 "tT" = (
@@ -1235,6 +1251,8 @@
 /obj/item/storage/box/bodybags,
 /obj/item/storage/box/gloves,
 /obj/item/storage/box/masks,
+/obj/item/storage/box/syringes,
+/obj/item/storage/box/bodybags,
 /turf/open/floor/plasteel/white,
 /area/ship/medical)
 "DU" = (
@@ -1602,7 +1620,6 @@
 /obj/item/clothing/suit/toggle/labcoat/cmo,
 /obj/item/clothing/shoes/sneakers/white,
 /obj/item/clothing/glasses/hud/health/sunglasses,
-/obj/item/storage/belt/medical,
 /obj/item/clothing/neck/tie/light_blue,
 /obj/item/healthanalyzer/advanced,
 /obj/item/hypospray/mkii/CMO,
@@ -1615,6 +1632,12 @@
 	},
 /obj/item/storage/backpack/satchel/med,
 /obj/item/gun/energy/e_gun/mini,
+/obj/item/clothing/head/helmet/sec,
+/obj/item/clothing/gloves/color/latex/nitrile,
+/obj/item/clothing/gloves/color/latex/nitrile/evil,
+/obj/item/clothing/under/syndicate/medic/trauma,
+/obj/item/storage/belt/medical/webbing/paramedic,
+/obj/item/clothing/head/soft/cybersun/trauma,
 /turf/open/floor/carpet/nanoweave,
 /area/ship/bridge)
 "Ny" = (
@@ -1846,6 +1869,8 @@
 /obj/structure/bed,
 /obj/structure/curtain/bounty,
 /obj/item/bedsheet/cmo,
+/obj/item/clothing/head/helmet/sec,
+/obj/item/clothing/head/helmet/sec,
 /turf/open/floor/plasteel/dark,
 /area/ship/bridge)
 "SP" = (
@@ -1979,6 +2004,7 @@
 /obj/item/stack/spacecash/c1000,
 /obj/item/stack/spacecash/c1000,
 /obj/item/stack/spacecash/c1000,
+/obj/item/clothing/under/syndicate/medic/trauma,
 /turf/open/floor/carpet/nanoweave,
 /area/ship/bridge)
 "UO" = (
@@ -2032,6 +2058,7 @@
 	pixel_x = -28;
 	req_access_txt = "5"
 	},
+/obj/item/clothing/head/helmet/sec,
 /turf/open/floor/plasteel/dark,
 /area/ship/crew)
 "Vq" = (
@@ -2495,7 +2522,7 @@ YM
 gL
 Rh
 gL
-gL
+gN
 gL
 AJ
 "}
@@ -2579,7 +2606,7 @@ YK
 RW
 dH
 uq
-ur
+bc
 go
 Bl
 Bl
