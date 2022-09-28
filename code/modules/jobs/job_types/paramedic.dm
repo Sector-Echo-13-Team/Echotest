@@ -63,7 +63,7 @@
 	name = "Paramedic (Trauma Team Technician)"
 
 	uniform = /obj/item/clothing/under/syndicate/medic/trauma
-	head = /obj/item/clothing/head/soft/paramedic
+	head = /obj/item/clothing/head/soft/cybersun/trauma
 	belt = /obj/item/storage/belt/medical/webbing/paramedic
 	shoes = /obj/item/clothing/shoes/combat
 	backpack = /obj/item/storage/backpack/ert/medical
