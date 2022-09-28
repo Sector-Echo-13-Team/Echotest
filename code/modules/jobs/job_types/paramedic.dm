@@ -64,7 +64,7 @@
 
 	uniform = /obj/item/clothing/under/syndicate/medic/trauma
 	head = /obj/item/clothing/head/soft/paramedic
-	belt = 	belt = /obj/item/storage/belt/medical/webbing/paramedic
+	belt = /obj/item/storage/belt/medical/webbing/paramedic
 	shoes = /obj/item/clothing/shoes/combat
 	backpack = /obj/item/storage/backpack/ert/medical
 	gloves = /obj/item/clothing/gloves/color/latex/nitrile/evil
