@@ -291,9 +291,7 @@
 /turf/closed/wall/mineral/titanium/nodiagonal,
 /area/ship/hallway/aft)
 "gN" = (
-/obj/machinery/vending/wallmed{
-	pixel_w = 0.5
-	},
+/obj/machinery/vending/wallmed,
 /turf/closed/wall/mineral/titanium/nodiagonal,
 /area/ship/hallway/aft)
 "gO" = (
