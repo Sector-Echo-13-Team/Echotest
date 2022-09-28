@@ -1613,7 +1613,6 @@
 /turf/closed/wall/mineral/titanium/nodiagonal,
 /area/ship/bridge)
 "Nq" = (
-/obj/item/clothing/gloves/color/latex/nitrile,
 /obj/item/clothing/under/suit/cmo,
 /obj/item/clothing/suit/toggle/labcoat/cmo,
 /obj/item/clothing/shoes/sneakers/white,
@@ -1631,7 +1630,6 @@
 /obj/item/storage/backpack/satchel/med,
 /obj/item/gun/energy/e_gun/mini,
 /obj/item/clothing/head/helmet/sec,
-/obj/item/clothing/gloves/color/latex/nitrile,
 /obj/item/clothing/gloves/color/latex/nitrile/evil,
 /obj/item/clothing/under/syndicate/medic/trauma,
 /obj/item/storage/belt/medical/webbing/paramedic,
