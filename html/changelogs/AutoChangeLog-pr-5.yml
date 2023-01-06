@@ -1,0 +1,5 @@
+author: TheNeoGamer42
+delete-after: true
+changes:
+  - rscadd: The Arrowhead-class now has a RND set chooser.
+  - bugfix: The main airlock of the Arrowhead-class works properly.
